@@ -46,4 +46,4 @@ sh
 cd C:\2024\New folder\FontConvert
 fontconvert myfont.ttf 12 > myfont.h
 ```
-This example navigates to the FontConvert directory, converts the myfont.ttf file with a size of 12, and outputs the result to myfont.h.
+This example navigates to the FontConvert directory, converts the `myfont.ttf` file with a size of `12`, and outputs the result to `myfont.h`.
